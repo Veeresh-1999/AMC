@@ -1,0 +1,108 @@
+body {
+    background-color: rgb(234, 245, 245);
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .mimage
+  {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 99%;
+  }
+
+  .info
+  {
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 20px;
+    background-color: rgb(194, 244, 244);
+  }
+
+  .info>h3{
+    font-family: sans-serif;
+    background-color: aquamarine;
+    padding: 10px;
+    font-weight: bold;
+  }
+
+  .info>p{
+    padding: 15px;
+    font-size: 25px;
+  }
+
+  .co
+  {
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 20px;
+    background-color: rgb(159, 153, 248);
+  }
+
+  .co>h3{
+    font-family: sans-serif;
+    background-color: rgb(107, 97, 249);
+    padding: 10px;
+    font-weight: bold;
+    color: wheat;
+  }
+
+  .co>h4{
+    font-family: sans-serif;
+    padding: 10px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+  }
+
+  .co>ul>li{
+    font-family: sans-serif;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    padding: 6px;
+    font-size: 16px;
+  }
+
+  .con
+  {
+    display: block;
+    place-items: center;
+    margin: 7px;
+  }
+
+  .hedding
+  {
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 20px;
+    background-color: rgb(194, 244, 244);
+  }
+
+  .hedding>h3{
+    font-family: sans-serif;
+    background-color: aquamarine;
+    padding: 10px;
+    font-weight: bold;
+  }
+
+  .hedding>p{
+    font-family: sans-serif;
+    padding: 12px;
+    font-weight: bold;
+    margin-left: 25px;
+  }
+
+  .video
+  {
+    margin: 10px;
+  }
+
+  .photo
+  {
+    margin: 10px;
+  }
+  .photo>center>p>img {
+    max-width: 30%;
+    height: auto;
+    margin: 5px;
+  }
